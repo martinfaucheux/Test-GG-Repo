@@ -4,6 +4,6 @@ domain = "martinfaucheux.testdomain.com"
 
 domain = "martinfaucheux.testotherdomain.com"
 
-GITHUB_TOKEN = "0d66b5ed856b0b2999cf7a18bf74fa303b158aa4"
+GITHUB_TOKEN = "0d66b5ed156b0b2999cf7a18bf74fa303b158aa4"
 
 # test stuff for gitguardian.com
